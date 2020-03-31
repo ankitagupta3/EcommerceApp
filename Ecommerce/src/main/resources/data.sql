@@ -1,0 +1,3 @@
+INSERT INTO PRODUCTS_TABLE (brandName,priceOfArticle,colorOfArticle,sizeOfArticle,availableProductsFromSeller) VALUES ('Levis', '2000', 'Blue', 'Medium','10');
+INSERT INTO PRODUCTS_TABLE (brandName,priceOfArticle,colorOfArticle,sizeOfArticle,availableProductsFromSeller) VALUES ('NumeroUno', '2500', 'Black', 'Large','20');
+INSERT INTO PRODUCTS_TABLE (brandName,priceOfArticle,colorOfArticle,sizeOfArticle,availableProductsFromSeller) VALUES  ('Only', '2200', 'Grey', 'Small','15');
